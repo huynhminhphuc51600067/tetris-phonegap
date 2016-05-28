@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.haha.hihi.first" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Battery">
+        <param name="wp-package" value="Battery" />
+    </feature>
+    <feature name="Camera">
+        <param name="wp-package" value="Camera" />
+    </feature>
+    <feature name="Console">
+        <param name="wp-package" value="DebugConsole" />
+    </feature>
+    <feature name="Contacts">
+        <param name="wp-package" value="Contacts" />
+    </feature>
+    <feature name="Device">
+        <param name="wp-package" value="Device" />
+    </feature>
+    <feature name="Accelerometer">
+        <param name="wp-package" value="Accelerometer" />
+    </feature>
+    <feature name="Compass">
+        <param name="wp-package" value="Compass" />
+    </feature>
+    <feature name="Notification">
+        <param name="wp-package" value="Notification" />
+    </feature>
+    <feature name="File">
+        <param name="wp-package" value="File" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="wp-package" value="FileTransfer" />
+    </feature>
+    <feature name="Globalization">
+        <param name="wp-package" value="Globalization" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="wp-package" value="InAppBrowser" />
+    </feature>
+    <feature name="Media">
+        <param name="wp-package" value="Media" />
+    </feature>
+    <feature name="Capture">
+        <param name="wp-package" value="Capture" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="wp-package" value="NetworkStatus" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="wp-package" value="SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="wp-package" value="StatusBar" />
+    </feature>
+    <feature name="Vibration">
+        <param name="wp-package" value="Vibration" />
+    </feature>
+    <name>Tetris by Thao hihi</name>
+    <description>This app has been made by js and css.</description>
+    <author email="thaont289@gmail.com" href="http://phonegap.com">Thao hihi</author>
+    <content src="index.html" />
+    <icon src="icon.png" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon height="99" platform="wp8" src="www/res/icon/wp8/ApplicationIcon.png" width="99" />
+    <icon height="159" platform="wp8" src="www/res/icon/wp8/Background.png" width="159" />
+    <splash height="1280" platform="wp8" src="www/res/screen/wp8/screen-portrait.jpg" width="768" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="14" />
+</widget>

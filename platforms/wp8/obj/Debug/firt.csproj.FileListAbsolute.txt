@@ -1,0 +1,8 @@
+D:\Projects\firt\platforms\wp8\obj\Debug\App.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\Plugins\cordova-plugin-contacts\ContactPicker.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\Plugins\cordova-plugin-dialogs\NotificationBox.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\Plugins\cordova-plugin-media-capture\AudioRecorder.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\Plugins\cordova-plugin-media-capture\VideoRecorder.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Projects\firt\platforms\wp8\obj\Debug\com.haha.hihi.first.g.resources

@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{8ff39820-24b7-11e6-bc78-a52b4f215700}"
+        }
+    },
+    "dependent_plugins": {}
+}
